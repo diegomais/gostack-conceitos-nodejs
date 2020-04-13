@@ -7,7 +7,7 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-nodejs?color=%2304D361">
 
   <a href="https://diegomais.github.io">
     <img alt="Made by Diego Mais" src="https://img.shields.io/badge/made%20by-Diego%20Mais-%2304D361">
