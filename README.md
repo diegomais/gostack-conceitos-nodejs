@@ -7,19 +7,22 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
+  <img alt="Codeclimate maintainability" src="https://img.shields.io/codeclimate/maintainability/diegomais/gostack-conceitos-nodejs?color=04D361">
+  
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-nodejs?color=%2304D361">
 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-conceitos-nodejs?color=04D361">
+
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  
   <a href="https://diegomais.github.io">
     <img alt="Made by Diego Mais" src="https://img.shields.io/badge/made%20by-Diego%20Mais-%2304D361">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -95,13 +98,9 @@ Para esse desafio temos os seguintes testes:
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
 
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
