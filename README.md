@@ -7,14 +7,6 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="CircleCI" src="https://circleci.com/gh/diegomais/gostack-conceitos-nodejs.svg?style=shield&circle-token=05399856578b3cb4856c2865383c5f2227acc7a6" />
-  
-  <img alt="Codacy coverage" src="https://app.codacy.com/project/badge/Grade/31432ff38a4342519dea87db917fcc5b" />
-  
-  <img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability-percentage/diegomais/gostack-conceitos-nodejs" />
-
-  <img alt="Code Climate coverage" src="https://img.shields.io/codeclimate/coverage/diegomais/gostack-conceitos-nodejs" />
-
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-nodejs">
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-conceitos-nodejs">
@@ -24,6 +16,18 @@
   <a href="https://diegomais.github.io">
     <img alt="Made by Diego Mais" src="https://img.shields.io/badge/made%20by-Diego%20Mais-green">
   </a>
+  
+  </br>
+  
+  <img alt="CircleCI" src="https://circleci.com/gh/diegomais/gostack-conceitos-nodejs.svg?style=shield&circle-token=05399856578b3cb4856c2865383c5f2227acc7a6" />
+  
+  <img alt="Codacy code quality" src="https://app.codacy.com/project/badge/Grade/31432ff38a4342519dea87db917fcc5b" />
+  
+  <img alt="Codacy coverage" src="https://app.codacy.com/project/badge/Coverage/31432ff38a4342519dea87db917fcc5b" />
+  
+  <img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability-percentage/diegomais/gostack-conceitos-nodejs" />
+
+  <img alt="Code Climate coverage" src="https://img.shields.io/codeclimate/coverage/diegomais/gostack-conceitos-nodejs" />
 </p>
 
 <p align="center">
